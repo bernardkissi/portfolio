@@ -1,8 +1,8 @@
-### Portfolio
+## Portfolio
 
 This website contains all information about my software journey
 
-## Tech stack used
+### Tech stack used
 
 ```
 - React
