@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Sohne";
+    font-weight: 400;
+    src: url("@assets/fonts/sohne-mono-buch.woff2") format("woff2");
+  }
+  ,
+  @font-face {
+    font-family: "Sohne";
+    font-weight: 400;
+    font-style: italic;
+    src: url("@assets/fonts/sohne-mono-buch-italic.woff2") format("woff2");
+  }
+  ,
+  @font-face {
+    font-family: "Sohne";
+    font-weight: 600;
+    src: url("@assets/fonts/sohne-mono-halbfett.woff2") format("woff2");
+  }
+  ,
+  @font-face {
+    font-family: "Sohne";
+    font-weight: 600;
+    font-style: italic;
+    src: url("@assets/fonts/sohne-mono-halbfett-italic.woff2") format("woff2");
+  }
+
+  body {
+    font-family: "Sohne", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000;
+    background-color: red;
+  }
+}

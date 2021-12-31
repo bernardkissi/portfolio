@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="263px" height="263px"><svg width="263px" height="263px" viewBox="0 0 263 263" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="SvgjsLinearGradient1003">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="SvgjsG1002" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SvgjsG1001" transform="translate(-85.000000, -23.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <ellipse id="SvgjsEllipse1000" transform="translate(216.434526, 154.733362) rotate(20.000000) translate(-216.434526, -154.733362) " cx="216.434526" cy="154.733362" rx="130.5" ry="131"></ellipse>
+        </g>
+    </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
