@@ -7,8 +7,13 @@ import '@assets/fonts/sohne-mono-buch-italic.woff2'
 import '@assets/fonts/sohne-mono-halbfett.woff2'
 import '@assets/fonts/sohne-mono-halbfett-italic.woff2'
 
+import { useTranslation } from "react-i18next";
+import '@locales/i18n'
+
 function App() {
   const [count, setCount] = useState(0)
+  const { t } = useTranslation()
+
 
   return (
     <div className="App">
@@ -20,6 +25,7 @@ function App() {
             count is: {count}
           </button>
         </p>
+        <p>{t("welcome")}</p>
         <p>
           Edit <code>App.jsx</code> and save to test HMR updates.
         </p>
