@@ -2760,11 +2760,6 @@ vite-aliases@^0.8.7:
     jsonc-parser "^3.0.0"
     vite "^2.5.8"
 
-vite-plugin-i18n-resources@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/vite-plugin-i18n-resources/-/vite-plugin-i18n-resources-1.0.3.tgz#6a9a4204bd9676ff6c0ff08853a2ba45c22036e8"
-  integrity sha512-ohB4Cvao6QBaO7eAxH2IgVUNyB+QStxhU0OEOdH2ZIKhcx8TVCu1kG5eLnv5SH9GqeOfRijTpSeC1JJfk98IjA==
-
 vite-plugin-pwa@^0.11.12:
   version "0.11.12"
   resolved "https://registry.yarnpkg.com/vite-plugin-pwa/-/vite-plugin-pwa-0.11.12.tgz#02b4cfccd7ad098cfb291415c62c3b7281b7c538"

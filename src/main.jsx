@@ -2,10 +2,6 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import '@assets/css/index.css'
 import App from './App'
-import { messages } from "vite-i18n-resources";
-
-
-console.log(messages)
 
 ReactDOM.render(
   <React.StrictMode>
